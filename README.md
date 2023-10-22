@@ -3,9 +3,9 @@
 **Author:**
 Filip Segota  
 **Class:**
-CSC 122 (Programming 2), Fall 2020  
+CSC 321 (Programming 3), Spring 2021  
 **Assignment:**
-Stacks and Queues Lab
+Donation Center Project
 
 ## Details
 Build a system to track donations. The details about the donation center are not organized but given as the director might verbalize them:  
