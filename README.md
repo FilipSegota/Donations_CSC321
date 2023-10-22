@@ -5,7 +5,7 @@ Filip Segota
 **Class:**
 CSC 122 (Programming 2), Fall 2020  
 **Assignment:**
-Stacks and Queues Assignment 
+Stacks and Queues Lab
 
 ## Details
 Build a system to track donations. The details about the donation center are not organized but given as the director might verbalize them:  
