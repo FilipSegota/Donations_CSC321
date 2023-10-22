@@ -14,7 +14,7 @@ The donation center collects donations (of time, items, and money) from differen
 Data needs to be kept between runnings of the program but should not be allowed to be edited directly (only through the program).
 
 ## Phase 1
-Identify what classes are needed, design interfaces for them, and then code classes themselves. An interface should be created to define the communications between these and all other classes. The data structure of the donations used should be transparent to all other code. The donor information needs to use inheritance.
+For this phase, work in pairs (Micah Focht). Identify what classes are needed, design interfaces for them, and then code classes themselves. Split work in pairs. An interface should be created to define the communications between these and all other classes. The data structure of the donations used should be transparent to all other codes. The donor information needs to use inheritance.
 
 ## Phase 2
 Take the code and add the GUI interface to it. The design should include a "diagram" of each window in the interface. Instead of an estimate of the time it will take to implement, it should include and maximum time that will be used to implement the GUI (including any time researching options).
